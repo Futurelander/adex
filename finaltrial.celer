@@ -1,0 +1,14 @@
+Final Trial:
+  - _Warp::Shrine::KehNamut:
+      comment: Warp
+  - Shrine of Resurrection:
+      notes: E. Clip oob. Clip back in bounds
+      icon: sor
+  - Enter Final Trial:
+      icon: maz
+      notes: Clip oob. Wb chain to Maz Koshia
+  - Monk Maz Koshia:
+      icon: tots
+      notes: P1 spin and shoot. P2 fury and shoot, fury and shoot. P3 gale, 2 ancient, spin
+  - Master Cycle Zero:
+      icon: master-cycle
